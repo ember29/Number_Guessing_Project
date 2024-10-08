@@ -12,7 +12,7 @@ Welcome to the Number Guessing Game project! This simple yet fun game allows pla
 
 2. **Navigate to the project directory:**
     ```bash
-    cd Number_Guessing_Game
+    cd Number_Guessing_Project
     ```
 
 3. **Run the main script:**
